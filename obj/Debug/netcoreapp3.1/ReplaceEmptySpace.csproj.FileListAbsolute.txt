@@ -1,0 +1,13 @@
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.exe
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.deps.json
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.runtimeconfig.json
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.runtimeconfig.dev.json
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.dll
+C:\Code\First Module\ReplaceEmptySpace\bin\Debug\netcoreapp3.1\ReplaceEmptySpace.pdb
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.csprojAssemblyReference.cache
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.AssemblyInfoInputs.cache
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.AssemblyInfo.cs
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.csproj.CoreCompileInputs.cache
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.dll
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.pdb
+C:\Code\First Module\ReplaceEmptySpace\obj\Debug\netcoreapp3.1\ReplaceEmptySpace.genruntimeconfig.cache
