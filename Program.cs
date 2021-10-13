@@ -8,20 +8,18 @@ namespace ReplaceEmptySpace
         const String CONSCHAR = "%20";
         static void Main(string[] args)
         {
-            replaceChar("Hello World!");
+            replaceChar("Hello  World!");
         }
 
-        static void replaceChar(string sentence){
-            char [] chars = sentence.ToCharArray();
+        static void replaceChar(string sentence) 
+        {
             StringBuilder sb = new StringBuilder(); 
 
-            for (int i = 0; i < chars.Length; i++)
-            {
-                if (chars[i] == (char) 32) {
+            foreach (var chr in sentence) {
+                if (chr == (char) ' ') 
                     sb.Append(CONSCHAR);
-                }else{
-                    sb.Append(chars[i]);
-                }
+                else
+                    sb.Append(chr);      
             }
 
             System.Console.WriteLine(sb.ToString());
